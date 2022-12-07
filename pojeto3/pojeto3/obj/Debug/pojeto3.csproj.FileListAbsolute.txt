@@ -1,0 +1,11 @@
+C:\Users\manuele.capereira\source\repos\pojeto3\pojeto3\bin\Debug\pojeto3.exe.config
+C:\Users\manuele.capereira\source\repos\pojeto3\pojeto3\bin\Debug\pojeto3.exe
+C:\Users\manuele.capereira\source\repos\pojeto3\pojeto3\bin\Debug\pojeto3.pdb
+C:\Users\manuele.capereira\source\repos\pojeto3\pojeto3\obj\Debug\pojeto3.csproj.AssemblyReference.cache
+C:\Users\manuele.capereira\source\repos\pojeto3\pojeto3\obj\Debug\pojeto3.csproj.SuggestedBindingRedirects.cache
+C:\Users\manuele.capereira\source\repos\pojeto3\pojeto3\obj\Debug\pojeto3.Form1.resources
+C:\Users\manuele.capereira\source\repos\pojeto3\pojeto3\obj\Debug\pojeto3.Properties.Resources.resources
+C:\Users\manuele.capereira\source\repos\pojeto3\pojeto3\obj\Debug\pojeto3.csproj.GenerateResource.cache
+C:\Users\manuele.capereira\source\repos\pojeto3\pojeto3\obj\Debug\pojeto3.csproj.CoreCompileInputs.cache
+C:\Users\manuele.capereira\source\repos\pojeto3\pojeto3\obj\Debug\pojeto3.exe
+C:\Users\manuele.capereira\source\repos\pojeto3\pojeto3\obj\Debug\pojeto3.pdb
